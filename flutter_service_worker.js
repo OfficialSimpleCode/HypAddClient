@@ -18,8 +18,6 @@ const RESOURCES = {"assets/AssetManifest.json": "6adf1060285c6713ff800ad6a2649fa
 "canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
 "canvaskit/chromium/canvaskit.js": "8c8392ce4a4364cbb240aa09b5652e05",
 "canvaskit/chromium/canvaskit.wasm": "fc18c3010856029414b70cae1afc5cd9",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/skwasm.js": "1df4d741f441fa1a4d10530ced463ef8",
 "canvaskit/skwasm.wasm": "6711032e17bf49924b2b001cef0d3ea3",
 "canvaskit/skwasm.worker.js": "19659053a277272607529ef87acf9d8a",
@@ -29,11 +27,11 @@ const RESOURCES = {"assets/AssetManifest.json": "6adf1060285c6713ff800ad6a2649fa
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9f94f97c1a5a2eefc321a06d8b8a9e1e",
-"/": "9f94f97c1a5a2eefc321a06d8b8a9e1e",
-"main.dart.js": "3a8c79fe9605e5a8cfe2e84ca3b8918b",
+"index.html": "54131d2e8d32e8391ac4c1b8ceca8c89",
+"/": "54131d2e8d32e8391ac4c1b8ceca8c89",
+"main.dart.js": "20c29e39eb0f0ff106343ed12b031488",
 "manifest.json": "5d4016c3edce3810ba03fc8609743864",
-"version.json": "47e4d904ebdce659820c2740e818d26a"};
+"version.json": "b60bd8bbee98a0959fba977ea24f5796"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
